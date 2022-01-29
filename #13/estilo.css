@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(57, 57, 207);
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    height: 180px;
+    border-radius: 30px;
+}
+div{
+    text-align: center;
+    padding-bottom: 10px;
+}
+img{
+    margin: auto;
+    border-radius: 50%; // forma mais simples de arredondar a imagem
+}
+
+footer{
+    text-align: center;
+}
